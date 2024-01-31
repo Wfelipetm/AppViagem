@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639728783622",
+    "project_id": "loginbus-dcacb",
+    "storage_bucket": "loginbus-dcacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639728783622:android:bc202a2a567e47fdaf8e87",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH05TbQvLgtAybtlxEMgH-ohnod521Wlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639728783622:android:8234cfb27c3562e1af8e87",
+        "android_client_info": {
+          "package_name": "com.example.meu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH05TbQvLgtAybtlxEMgH-ohnod521Wlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

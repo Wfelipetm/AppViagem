@@ -1,8 +1,24 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-feature android:name="android.hardware.location.gps" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+
+
     <application
-        android:label="nome_do_seu_projeto"
+        android:label="AppViagem"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+
+     <meta-data
+           android:name="com.google.android.geo.API_KEY"
+           android:value="@/string/ANDROID_MAPS_APIKEY" />
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true"

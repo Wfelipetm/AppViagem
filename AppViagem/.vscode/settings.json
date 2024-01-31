@@ -1,0 +1,9 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "lerp",
+        "Polyline"
+    ],
+    "cmake.sourceDirectory": "C:/Users/wallace.moreira/Desktop/Teste_itaBus/itaBus/linux"
+}

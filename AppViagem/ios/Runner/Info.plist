@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Nome Do Seu Projeto</string>
+	<string>Meu App</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>nome_do_seu_projeto</string>
+	<string>meu_app</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location for updating your position on the map.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>We need your location for updating your position on the map even when the app is in the background.</string>
 </dict>
 </plist>
